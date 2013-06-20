@@ -17,7 +17,7 @@
 *.tlh
 *.bak
 *.[Cc]ache
-*.ilk
+#*.ilk
 *.log
 #*.lib
 *.sbr
